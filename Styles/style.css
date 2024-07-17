@@ -1,10 +1,11 @@
+
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-body {
+body{
   margin-top: 100px;
 }
 
@@ -19,6 +20,7 @@ h1 {
 }
 
 h2 {
+
   font-size: 48px;
 }
 
@@ -41,7 +43,6 @@ p {
 .navigation-links a {
   margin: 20px;
 }
-
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
